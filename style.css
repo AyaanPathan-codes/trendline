@@ -159,7 +159,7 @@ html,body{
   
     #nav h5 i {
         font-size: 20px;
-        margin-right: 50px;
+        margin-right: 2gitpx;
         font-weight: 300;
         
     }
@@ -186,12 +186,13 @@ html,body{
         /* background-color: red; */
         display: flex;
         align-items: center;
+        justify-content: space-between;
       
         gap: 12px;
         padding: 0 7.6px ;
     }
     #nav2 h3{
-        font-size: 9px;
+        font-size: 10px;
         text-transform: uppercase;
         font-weight: 500;
     }
